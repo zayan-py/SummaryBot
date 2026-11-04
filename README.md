@@ -4,5 +4,5 @@ My friends love chatting on Discord, even though I think the app is best kept pu
 
 So, I did what any programmer would do: I built a Discord bot to summarise the conversations for me. The architecture is straightforward. It uses the Pycord library to interface with Discord, pulls recent message history, formats the chat logs for an LLM API, and posts a concise breakdown directly back into the channel.
 
-You can install (Pycord)[https://pycord.dev/] here
+You can install Pycord here
 ```pip install py-cord```
